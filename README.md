@@ -5,3 +5,9 @@ This app along with the backend counterpart to it include a register and sign in
 The general purpose of the app is that after you sign in you can input any image url from google and have the Clarafai API make a predicition of the age of any person in a picture. After the submit button is clicked the front end connects with the database to give your user id one more entry. This then reflects on the entry count on the users screen.
 
 This app has fully functioning features when run locally.
+
+You can find a video example of the website use below.
+
+https://github.com/MaxwellABlevins/AgeIdentifier/assets/126877025/23bdf26f-5393-496e-a4bc-b07251840876
+
+
